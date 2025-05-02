@@ -7,8 +7,13 @@ html {
 
 img{
   border-radius: 30px;
+  border:2px solid black;
+  padding:10px
 }
 
 h1 {
   font-family: "Poetsen One", sans-serif;
 }
+body {
+  background-color:pink;
+  background-image: linear-gradient(pink, white);
